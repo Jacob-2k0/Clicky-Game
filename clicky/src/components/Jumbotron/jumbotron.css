@@ -1,0 +1,9 @@
+.jumbotron {
+    background: url('./chalkboard.jpg');
+    color: white;
+}
+.status {
+    background: url('./canvas.jpg');
+    color: black;
+    font-weight: bold;
+}

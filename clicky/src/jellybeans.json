@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "blueberry",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/3139fbFhufL.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "strawberryBanana",
+      "image": "https://candyhero.com/__public/images/products/c-gallery-9-53/strawberry-banana-smoothie-jelly-belly-jelly-beans-2.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "pink",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/pink-jellybean-black-outline.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "green",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/green-jellybean-black-outline.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "purple",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/purple-jellybean-black-outline.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "black",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/black-jelly-bean.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "gray",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/white-jelly-bean.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "orange",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/orane-jellybean-black-outline.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "smpurple",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/smiling-purple-jelly-bean.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "smblue",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/smiling-blue-jelly-bean.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "smpink",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/smiling-pink-jelly-bean.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "smgreen",
+      "image": "http://content.mycutegraphics.com/graphics/jellybean/smiling-green-jelly-bean.png",
+      "count": 0
+    }
+  ]
